@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+google-genai
+python-multipart
+
+
+#new addons- for google_competetion seo checker
+httpx>=0.24
+python-dotenv
+cachetools
+
+# for database integration
+asyncpg
+sqlalchemy[asyncio]
+alembic
+psycopg2-binary
+psycopg2
